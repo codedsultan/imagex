@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+.env
+
+# Docker artifacts
+*.log
+docker-compose.override.yml
+# scripts/seed_data.py
+scripts/gitcommit.sh
+cmd.sh
+
+# Local storage folder (if generated dynamically)
+storage/
+
