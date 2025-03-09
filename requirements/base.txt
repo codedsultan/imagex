@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy[asyncio]
+motor
+strawberry-graphql[fastapi]
+Pillow
+opencv-python-headless
+python-dotenv
+pyjwt
+boto3
